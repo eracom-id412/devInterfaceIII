@@ -8,7 +8,7 @@
 >
 
 
-**Horaire**: du 24.01 au 19.06.2024, les mercredi de 13h30 à 16h00 (*pas de cours: 14.02, 06.03, 27.03, 03.04*)
+**Horaires**: du 24.01 au 19.06.2024, les mercredis de 13h30 à 16h00 (*pas de cours: 14.02, 06.03, 27.03, 03.04*)
 
 **Classe**: ID412
 
@@ -27,4 +27,8 @@ Avec ce langage, vos projet web seront amenés à un autre niveau pour les faire
 - 10.04.2024 => TP manipulation du DOM - 2h30
 - 05.06.2024 => Présentations orales en groupe (style code review) - 20 min
 
+
+# Slides
+
+- [T_1.a](https://eracom-id412.github.io/devInterfaceIII/slides/T_1.a#1)
 
