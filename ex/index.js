@@ -1,5 +1,5 @@
 //consigne: 
-//GOAL = modifier ce code pour que le résulat dans votre console soir égal à 3  
+//GOAL = modifier ce code pour que le résulat dans votre console soit égal à 3  
 
 
 
