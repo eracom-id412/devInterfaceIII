@@ -31,4 +31,6 @@ Avec ce langage, vos projet web seront amenés à un autre niveau pour les faire
 # Slides
 
 - [T_1.a](https://eracom-id412.github.io/devInterfaceIII/slides/T_1.a#1)
+- [T_1.b](https://eracom-id412.github.io/devInterfaceIII/slides/T_1.b#1)
+- [T_1.c](https://eracom-id412.github.io/devInterfaceIII/slides/T_1.c#1)
 
